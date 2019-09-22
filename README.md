@@ -1,4 +1,4 @@
-<img src="images/logo.png" width="45%">
+<img src="images/logo.png" width="35%">
 
 ##### Shellcode Injector: A tool that allows shellcode injection into another process's memory space.
 [![GPLv3 license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](https://github.com/chrispetrou/Shellcode-Injector/blob/master/LICENSE) 
