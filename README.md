@@ -7,7 +7,7 @@
 
 * * *
 
-This script is originally part of my [HRShell](https://github.com/chrispetrou/HRShell) project but I though it would be nice to have it as a standalone script also. The original idea is totally adapted from [Gray Hat Python](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921) book written by Justin Seitz. I just modified the original script described in the book so that it also works with x64 Windows systems. What this tool does is that it simply allows shellcode injection into another process's memory space on Windows x86/x64 systems using the WinAPI.
+This script is originally part of my [HRShell](https://github.com/chrispetrou/HRShell) project but I though it would be nice to have it as a standalone script also. The original idea is totally adapted from [Gray Hat Python](https://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921) book written by Justin Seitz. I just modified the original script described in the book so that it also works with x64 Windows systems. What this tool does is that it simply allows shellcode injection into another process's memory space on __Windows x86/x64__ systems using the WinAPI.
 
 <img src="images/preview.png">
 
