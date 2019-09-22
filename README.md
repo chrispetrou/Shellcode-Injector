@@ -35,7 +35,7 @@ This script has __no__ requirements!
 ### Credits & References
 
 *   Seitz J. Gray Hat Python: Python programming for hackers and reverse engineers. no starch press; 2009 Apr 15.
-*   *   The Shellcode Injector logo is made with [fontmeme.com](https://fontmeme.com/graffiti-fonts/)!
+*   The Shellcode Injector logo is made with [fontmeme.com](https://fontmeme.com/graffiti-fonts/) & [icons8](https://icons8.com/)!
 
 ### License
 
