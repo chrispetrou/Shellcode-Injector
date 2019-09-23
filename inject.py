@@ -8,9 +8,7 @@ import sys
 import platform
 from ctypes import *
 from argparse import (
-    SUPPRESS,
     ArgumentParser,
-    ArgumentTypeError,
     RawTextHelpFormatter
 )
 
