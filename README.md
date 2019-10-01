@@ -25,7 +25,7 @@ Arguments::
   -p , --pid   Specify the PID of the target process.
 ```
 
-#### Installation
+#### 📦 Installation
 
 This script has __no__ requirements!
 
